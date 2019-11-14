@@ -1,0 +1,24 @@
+{
+  "name": "stoStow-UEC",
+  "version": "1.0.0",
+  "description": "When Hermione, Ron, and Harry are all running away from Voldemort, Hermione carries with her a beaded handbag which she has placed an Undetectable Extension Charm on. This charm has the ability to greatly expand the insides of an object without changing the external structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sredna43/stoStow-UEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sredna43/stoStow-UEC/issues"
+  },
+  "homepage": "https://github.com/sredna43/stoStow-UEC#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.9",
+    "graphql": "^14.5.8"
+  }
+}
